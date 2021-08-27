@@ -1,7 +1,3 @@
-<img src="https://img.shields.io/github/license/ilab4/ponto-eletronico"/> <img src="https://img.shields.io/github/downloads/ilab4/ponto-eletronico/total.svg"/> <img src="https://img.shields.io/github/stars/ilab4/ponto-eletronico"/>
-
-
-
 # Sistema de Ponto Eletrônico em Laravel
 
 Sistema de ponto eletrônico simplificado, desenvolvido em LARAVEL, para empresas que estão iniciando ou estudos.
