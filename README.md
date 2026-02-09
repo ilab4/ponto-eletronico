@@ -1,4 +1,4 @@
-# Sistema de Ponto Eletrônico em Laravel
+# iLAB4 Ponto Eletrônico
 
 Sistema de ponto eletrônico simplificado, desenvolvido em LARAVEL, para empresas que estão iniciando ou estudos.
 
